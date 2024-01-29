@@ -1,4 +1,4 @@
-# Blood_bank_rdbms
+# Blood_bank_rdbms Using MySQL
 This project aims to develop a Blood Bank Management System and our system can be used to find required type of blood in emergency situations from either blood bank or even blood donors.
 BLOOD BANK MANAGEMENT SYSTEM
  ABOUT THE PROJECT	:
